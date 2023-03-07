@@ -1,2 +1,2 @@
 #new phyton file
-printf ("New Life");
+print ("New Life");
